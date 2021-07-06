@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwin Padmakumar</h1>
-<h3 align="center">A passionate Software Developer. Always a learner.</h3>
+<h3 align="center">A passionate Software Engineer. Always a learner.</h3>
 
 - 📫 How to reach me **ashwinpadmakumar@gmail.com**
 
